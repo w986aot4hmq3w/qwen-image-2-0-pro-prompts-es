@@ -101,6 +101,17 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [qwen-image-2-0-pro-api-es](https://github.com/w986aot4hmq3w/qwen-image-2-0-pro-api-es)
+- **Same model, other languages** — 9 more language builds: 中文 `qwen-image-2-0-pro-api-cn` · Deutsch `qwen-image-2-0-pro-api-de` · Français `qwen-image-2-0-pro-api-fr` · Relay/gateway `qwen-image-2-0-pro-api-gateway` · Bahasa [qwen-image-2-0-pro-api-id](https://github.com/is-g7vdb4/qwen-image-2-0-pro-api-id) · 日本語 [qwen-image-2-0-pro-api-ja](https://github.com/q-ul1h/qwen-image-2-0-pro-api-ja) · 한국어 `qwen-image-2-0-pro-api-ko` · Português `qwen-image-2-0-pro-api-pt` · Русский [qwen-image-2-0-pro-api-ru](https://github.com/nu0b4nr5wn3aw/qwen-image-2-0-pro-api-ru)
+- **More models in this language** — [midjourney-api-es](https://github.com/xbuu0/midjourney-api-es) · [gemini-2-5-flash-image-preview-api-es](https://github.com/ekw3w/gemini-2-5-flash-image-preview-api-es) · [nano-banana-api-es](https://github.com/gbm5mfl1/nano-banana-api-es) · [gemini-3-1-flash-image-preview-api-es](https://github.com/x3kcczm8l29xn/gemini-3-1-flash-image-preview-api-es) · [nano-banana-2-api-es](https://github.com/d63hy9t-4pp/nano-banana-2-api-es) · [gemini-3-pro-image-preview-api-es](https://github.com/uv9d8/gemini-3-pro-image-preview-api-es)
+- **Topic hubs** — every build of this model, all languages: [qwen-image-2-0-pro](https://github.com/topics/qwen-image-2-0-pro) · [qwen-image-2-0-pro-api](https://github.com/topics/qwen-image-2-0-pro-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
